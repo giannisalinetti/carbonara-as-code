@@ -11,26 +11,27 @@ For 2 people you need:
 
 - 300 gr of **pasta**, best choice are **mezze maniche** or **rigatoni** but you can use **spaghetti** if you like long pasta (please don't break them).
   Best labels are: De Cecco, Garofalo, Del Verde, Rummo. 
-  Benedetto Cavalieri if you are cooking dinner for the woman you plan to marry. http://www.benedettocavalieri.it/portfolio_category/pasta-di-semola-di-grano-duro/
+  Benedetto Cavalieri if you are cooking dinner for the woman you plan to marry. 
   Another great brand is Rummo:
-  http://www.pastarummo.it/en/
-  https://www.onlyitalianproducts.it/pasta/pasta-rummo/7196-spaghetti-grossi-n-5-pasta-rummo-.html
-  http://www.inpuntadiforchetta.com/spaghetti-n-3-pasta-rummo/
+  - http://www.benedettocavalieri.it/portfolio_category/pasta-di-semola-di-grano-duro/
+  - http://www.pastarummo.it/en/
+  - https://www.onlyitalianproducts.it/pasta/pasta-rummo/7196-spaghetti-grossi-n-5-pasta-rummo-.html
+  - http://www.inpuntadiforchetta.com/spaghetti-n-3-pasta-rummo/
 - 3 very fresh **eggs**. Best if organic. This implies a bit of personale taste: I use one egg yolk for every commensal and one more entire egg. This leads to 3 eggs.
   2 eggs and a third whole egg.
-    https://www.eataly.net/it_it/uova-bio-canapa-e-lino-4pz-220g-olivero-claudio-199223
+  - https://www.eataly.net/it_it/uova-bio-canapa-e-lino-4pz-220g-olivero-claudio-199223
 - a good, not too salty, **Pecorino** cheese. Here are some links to buy it online:
-    https://www.eataly.net/it_it/pecorino-romano-dop-400g-cibaria-80280
-    https://www.italy-foods.com/food-shop/formaggi-stagionati/175-pecorino-romano-dop-brunelli-85-kg-ca.html (best choice)
-    https://www.salumieprodottitipici.it/en/cheese-and-dairy-/54-pecorino-romano-0656272496746.html
+  - https://www.eataly.net/it_it/pecorino-romano-dop-400g-cibaria-80280 (best choice)
+  - https://www.italy-foods.com/food-shop/formaggi-stagionati/175-pecorino-romano-dop-brunelli-85-kg-ca.html
+  - https://www.salumieprodottitipici.it/en/cheese-and-dairy-/54-pecorino-romano-0656272496746.html
 - **Guanciale** (pork cheek).
-    If you can't find it at a local grocery check out these links:
-    https://www.eataly.net/it_it/guanciale-amatriciana-400g-antica-ardenga-525885
-    https://www.italy-foods.com/food-shop/altri-salumi-affettati/26-guanciale-toscano-affettato.html?search_query=guanciale&results=3
-    https://www.amazingfood.it/en/guanciale-from-colonnata-kg-0-996-ca.html
+  - If you can't find it at a local grocery check out these links:
+  - https://www.eataly.net/it_it/guanciale-amatriciana-400g-antica-ardenga-525885
+  - https://www.italy-foods.com/food-shop/altri-salumi-affettati/26-guanciale-toscano-affettato.html?search_query=guanciale&results=3
+  - https://www.amazingfood.it/en/guanciale-from-colonnata-kg-0-996-ca.html
 - Salt and pepper. Better if you have raw pepper to freshly shred, it will preserve more taste.
 
-As you can see there are absolutely no cream and no bacon.
+As you can see there are absolutely no cream, no bacon, no hard-boiled eggs.
 
 ## Preliminary tasks
 
