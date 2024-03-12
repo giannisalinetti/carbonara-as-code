@@ -1,24 +1,20 @@
-# Carbonara as Code: the recipe for heaven
-
-This is the best recipe you can find in this Universe to cook a delicious
-carbonara. Indeed it is not a recipe, it is a guide to awesomeness.
+# Carbonara as Code: an opinionated approach
 
 ## Ingredients
-First rule: grep raw materials make great dishes. This is especially true for
+First rule: great raw materials make great dishes. This is especially true for
 this minimal recipe where the super quality of ingredients is the key.
 
 For 2 people you need:
 
-- 300 gr of **pasta**, best choice are **mezze maniche** or **rigatoni** but you can use **spaghetti** if you like long pasta (please don't break them).
-  Best labels are: De Cecco, Garofalo, Del Verde, Rummo. 
-  Benedetto Cavalieri if you are cooking dinner for the woman you plan to marry. 
+- 300 gr of **pasta**, best choice are **mezze maniche** or **rigatoni** but you can use **spaghetti** if you like long pasta (but please, don't break them).
+  Some of my favorite brands are: Mancini, Del Verde, Rummo. 
+  Benedetto Cavalieri if you are cooking dinner for the man/woman you plan to propose. 
   Another great brand is Rummo:
   - http://www.benedettocavalieri.it/portfolio_category/pasta-di-semola-di-grano-duro/
   - http://www.pastarummo.it/en/
   - https://www.onlyitalianproducts.it/pasta/pasta-rummo/7196-spaghetti-grossi-n-5-pasta-rummo-.html
   - http://www.inpuntadiforchetta.com/spaghetti-n-3-pasta-rummo/
-- 3 very fresh **eggs**. Better if organic. This implies a bit of personale taste: I use one egg yolk for each commensal and one more entire egg. This leads to 3 eggs.
-  2 eggs and a third whole egg.
+- 3 very fresh **eggs**. Better if organic. This implies a bit of personale taste: I now use egg yolk only, one and a half for each commensal. This leads to 3 eggs for 2 people.
   - https://www.eataly.net/it_it/uova-bio-canapa-e-lino-4pz-220g-olivero-claudio-199223
 - a good, not too salty, **Pecorino** cheese. Here are some links to buy it online:
   - https://www.eataly.net/it_it/pecorino-romano-dop-400g-cibaria-80280 (best choice)
@@ -29,6 +25,7 @@ For 2 people you need:
   - https://www.eataly.net/it_it/guanciale-amatriciana-400g-antica-ardenga-525885
   - https://www.italy-foods.com/food-shop/altri-salumi-affettati/26-guanciale-toscano-affettato.html?search_query=guanciale&results=3
   - https://www.amazingfood.it/en/guanciale-from-colonnata-kg-0-996-ca.html
+  - https://www.sano-salumi.com/portfolio_page/il-guanciale-amatriciano/
 - Salt and pepper. Better if you have raw pepper to freshly shred, it will preserve more taste.
 
 As you can see there are absolutely no cream, no bacon, no hard-boiled eggs.
@@ -39,24 +36,27 @@ As you can see there are absolutely no cream, no bacon, no hard-boiled eggs.
 Fill a pot with water and add a good pinch of cooking salt and start boiling it.
 
 ### Guanciale 
-Start slicing the guanciale: cut slices from the shorter side. Remove the rind
-before.
-When you have 3/4 slices start making little pieces from them. The size is
-important: they should not be too big nor too small. 40mm x 7mm x 7mm is 
-a nice approximation.
+Start slicing the guanciale: cut slices from the shorter side. Remove the rind before.
+When you have 3/4 slices start making little pieces from them. Personal taste rules but generally they should not be too big nor too small. A measure of 40mm x 7mm x 7mm is a nice approximation.
 
 Put the pieces in the a preheated pan: we want it to cook very slowly with absolutely
 **NO OLIVE OIL NOR BUTTER**. Set a very moderate flame/temperature to avoid overburning it.
-It will mold slowly and release its own grease. Its beatiful smell is really mouth watering.
+It will mold slowly and release its own grease. 
+
+When the guanciale will be crispy and well cooked (but not burned), set the pieces aside and filter the bottom from the extracted grease. Put a part of grease aside to mix it with the eggs, leave the rest in the pan to cream the pasta later.
+
+### Eggs
+Bring a pot of water to 61°C (141.8°F), gently lay down the whole eggs with shell for 5 minutes. Remove the eggs and put them in 
+a bowl with cold water and ice to stop the internal heating.
+Open the eggs, collect the yolks and set aside the egg white. The eggs are now completely safe to eat thank to the pasteurization process. Add pepper and guanciale grease to the yolks and stir.
+
+**Optional**: If you want you can make an extra pasteurization step using a metal bowl in bain marie. This is useful when you want an extra step of coagulation without cooking the egg excessively. Stir the eggs in the bowl while controlling the temperature under 60-63°C. 
 
 ### Pecorino
 Start shredding the pecorino in a bowl. I don't give you an exact weight 
 since it's a matter of taste. I like it abundant... :) 
 
-### Eggs
-Open the eggs in another bowl and shake them slowly and sweetly, you don't want 
-to incorporate too much air. Start adding the pepper and a little part of the shredded pecorino 
-to the egg and keep blending, until you have a creamy mix (not too much dense yet).
+Add the shredded pecorino to the eggs and stir to obtain a creamy paste. Set a little part aside to decorate the dishes.
 
 ## Core tasks
 Check the guanciale, it should become a little crispy but not too much and it 
