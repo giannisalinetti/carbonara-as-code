@@ -86,20 +86,15 @@ My advice is to put the pan away from the flame since an excessive amount of hea
 will cook the egg too fast with an omelette-like result. Just toss the pasta in the
 pan for one minute before adding the egg to slightly lower its temperature.
 
-Put the pecorino cheese in the egg an mix well until you get a quite dense cream. 
-We do this as the last step to avoid melting the pecorino before because of the 
-warm water or the guanciale grease already added.
-
-Now the hard part where true heroes rise: put the eggs on the pasta and start 
-mixing. The rule of thumb is simple: we just don't want to overcook the egg,
+Put the eggs cream on the pasta and start mixing. The rule of thumb is simple: we just don't want to overcook the egg,
 it should stay creamy.
 When you get a creamy result you are ready to serve. The level of egg cooking is 
 something very personal: some people prefer it very rare, some other well done.
+I personally enjoy it very rare since it was already pasteurized before. If you prefer the egg to coagulate a bit more, you can try moving back and forth the pan from the fire/induction. 
+
 Before serving add back the guanciale slices put aside before and let them 
 incorporate the egg cream.
 
-**NOTE**: If you prefer the egg to coagulate a bit more, you can try moving back and forth the pan 
-on the fire 
 Add some other shredded pecorino and pepper if you like it, since the real taste 
 of the carbonara is very strong with a lot of pepper. 
 If it becomes too tight we can add a very small amount of cooking water and keep on mixing.
